@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `jpiccoli_Part6`
+-- Database: `ailachin_FinanceTracker`
 --
-CREATE DATABASE IF NOT EXISTS `jpiccoli_Part6` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-USE `jpiccoli_Part6`;
+CREATE DATABASE IF NOT EXISTS `ailachin_FinanceTracker` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+USE `ailachin_FinanceTracker`;
 
 -- --------------------------------------------------------
 
